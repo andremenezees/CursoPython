@@ -1,0 +1,9 @@
+nome: asdada telefone: 223123 aniversario: 04/06
+nome: mali telefone: 2132131 aniversario: 02/03
+nome: dioneis telefone: 2132131 aniversario: 05/07
+nome: joao telefone: 2132131 aniversario: 04/09
+nome: oloco telefone: 2132131 aniversario: 03/02
+nome: maicon telefone: 2132131 aniversario: 01/04
+nome: filaipe telefone: 2132131 aniversario: 02/03
+nome: mapache telefone: 1231231 aniversario:05/06
+nome: josnei telefone: 47213123 aniversario:03/12

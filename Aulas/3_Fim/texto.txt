@@ -1,0 +1,3 @@
+ola boa noite.
+Este curso está me ajudando a ficar expert em Python.
+Neste momento estou aprendendo a usar Seek().

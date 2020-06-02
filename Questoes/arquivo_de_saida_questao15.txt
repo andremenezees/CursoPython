@@ -1,0 +1,4 @@
+Nome: andre e maior de idade pois sua idade e :24
+Nome: marcos e maior de idade pois sua idade e :20
+Nome: mapache e maior de idade pois sua idade e :34
+Nome: Tyrion e maior de idade pois sua idade e :319
