@@ -1,4 +1,5 @@
 """Testando git"""
 
 class Energia:
-    pass
+    def __init__(self):
+        pass
